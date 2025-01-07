@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #
-# git push pereezding epo to githublo
+# git push pereezding repo to githublo
 #
 # 2024.04.25 fix script for a days
 # 2024.06.22 fix .DS_Store
